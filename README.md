@@ -2,3 +2,7 @@
 Repository created for storing the text mining final project made by Michalina Cieśliak, Julian Jarzabkowski, Maciej Świtała.
 
 It consists of following folders:
+
+- clustering
+- data
+- topic modelling
