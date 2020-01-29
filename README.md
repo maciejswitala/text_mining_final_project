@@ -1,8 +1,9 @@
 # text_mining_final_project
 Repository created for storing the text mining final project made by Michalina Cieśliak, Julian Jarząbkowski, Maciej Świtała.
 The data come from: https://github.com/AshwanthRamji/Depression-Sentiment-Analysis-with-Twitter-Data.
+Please notice that all directories are set in a way that both codes and data need to be unpacked into the same directory.
 
-It consists of following folders/files:
+All the materials consist of following folders/files:
 
 - clustering (prepared by: Michalina Cieślak)
   - code_clustering.r: some initial data preprocessing and analysis; also clustering, wordclouds etc.
